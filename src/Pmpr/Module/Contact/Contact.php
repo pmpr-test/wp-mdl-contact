@@ -1,0 +1,7 @@
+<?php
+/*   _______________________________________
+    |  Obfuscated by PMPR - Php Obfuscator  |
+    |             66e5e78c8fb79             |
+    |_______________________________________|
+*/
+ namespace Pmpr\Module\Contact; use Pmpr\Common\Foundation\Container\ComponentInitiator; use Pmpr\Common\Foundation\Interfaces\Constants; use Pmpr\Module\Contact\Model\Model; use Pmpr\Module\Contact\Widget\Widget; class Contact extends ComponentInitiator { public function register() { $this->gkieogwukagigisy(__DIR__, [Constants::qescuiwgsyuikume => static function () { return __("\x43\157\x6e\164\141\143\x74", PR__MDL__CONTACT); }]); } public function mameiwsayuyquoeq() { if (!$this->uwkmaywceaaaigwo()->owicscwgeuqcqaig()->goecwaaykqoaaagg()) { goto kooskuwkuayiuose; } Setting::symcgieuakksimmu(); kooskuwkuayiuose: if (!$this->caokeucsksukesyo()->owicscwgeuqcqaig()->mcgoysmkqsqooceq()) { goto qwcegcuowwgiccos; } Ajax::symcgieuakksimmu(); qwcegcuowwgiccos: Hook::symcgieuakksimmu(); Page::symcgieuakksimmu(); Model::symcgieuakksimmu(); Widget::symcgieuakksimmu(); } public function aqyikqugcomoqqqi() { if (!$this->omseesogaocascyo("\x73\164\x72\165\x63\x74\x75\162\145\x64\55\x64\x61\x74\141")) { goto qcessicwuikwqsis; } StructuredData::symcgieuakksimmu(); qcessicwuikwqsis: if (!$this->omseesogaocascyo("\x73\x65\143\165\162\x69\164\171")) { goto yssscwioiyygssec; } Security::symcgieuakksimmu(); yssscwioiyygssec: } }
