@@ -1,7 +1,7 @@
 <?php
 /*   _______________________________________
     |  Obfuscated by PMPR - Php Obfuscator  |
-    |             6716e1452fef8             |
+    |             671fc07456d95             |
     |_______________________________________|
 */
  use Pmpr\Module\Contact\Contact; Contact::symcgieuakksimmu();
